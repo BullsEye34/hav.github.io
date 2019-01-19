@@ -37,9 +37,10 @@ nav{
     background: #13171f;
 }
 
-#about .row{
+
+
+#cardabout{
     width: 100%;
-    padding: 0% 2% 0% 2%;
 }
 
 #hav{
@@ -47,7 +48,14 @@ nav{
     align-content: center;
     mix-blend-mode: exclusion;
     align-items: center;
+    size: 100%;
 }
+
+#about img{
+    width 100%;
+
+}
+
 
 p{
     color: #fff;
@@ -62,7 +70,7 @@ p{
     background-size: 65%;
     background-attachment: fixed;
     background-position: center;    
-    padding: 3em 4em 4em 4em;
+    padding: 20% 20% 0% 20%;
     
 }
 
