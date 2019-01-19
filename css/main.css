@@ -24,12 +24,13 @@ h1{
 }
 
 nav{
-    height: 5em;
-    padding: 2em 0em 5em 5em;
+    height: 8em;
+    padding: 2em 0em 8em 5em;
     position: fixed;
     z-index: 10000;
     width: 100%;
     top: 0px;
+    font-size: 30%;
 }
 
 #about{
