@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+@font-face {
+    font-family: havoc;
+    src: url('../font/Filth_Of_Icarus.ttf') format('truetype');
+  }
+
+
+
+img{
+    size: 2px;
+}
+
+h1{
+    font-family: Montserrat;
+    text-align: center;
+    color: #fff;
+}
+
+#about{
+    size: 4em;
+    padding: 100px 100px 150px 100px;
+    font-size: 4em;
+}
+
+nav{
+    height: 5em;
+    padding: 2em 0em 5em 5em;
+    position: fixed;
+    z-index: 10000;
+    width: 100%;
+    top: 0px;
+}
+
+#about{
+    background: #13171f;
+}
+
+#about .row{
+    width: 100%;
+    padding: 0% 2% 0% 2%;
+}
+
+#hav{
+    text-align: center;
+    align-content: center;
+    mix-blend-mode: exclusion;
+    align-items: center;
+}
+
+p{
+    color: #fff;
+    display: block;
+    font-size: 30px;
+}
+
+#story{
+    background: #2d2040 url('../logo.jpg');
+    background-blend-mode: exclusion;
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-attachment: fixed;
+    background-position: center;
+    background-position-y: 0em;
+    background-position-x: 20em;
+    
+    padding: 3em 4em 4em 4em;
+    
+}
+
+
+
+.inline { 
+    float:none; /* disable the float */
+  display: inline-block; /* make blocks inline-block */
+  text-align: initial; /* restore text-align to default */
+}
+
+#download{
+    background: #13171f;
+    padding: 3em 4em 4em 4em;
+    
+}
+
+#download h1{
+    font-family: havoc;
+}
+
+i{
+    width: 500px !important;
+    height: 50px !important;
+}
+
+#story .row{
+    width: 100%;
+    padding: 0% 2% 0% 2%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.collection a{
+    height: 1.5em;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
