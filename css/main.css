@@ -64,14 +64,17 @@ p{
 }
 
 #story{
-    background: #2d2040 url('../logo.jpg');
-    background-blend-mode: exclusion;
-    background-repeat: no-repeat;
-    background-size: 65%;
-    background-attachment: fixed;
-    background-position: center;    
-    padding: 20% 20% 0% 20%;
+    background: #2d2040;  
+    padding: 10% 15% 0% 15%;
     
+}
+
+html{
+    width: 100%;
+    overflow-x: hidden; 
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
 }
 
 
@@ -90,6 +93,7 @@ p{
 
 #download h1{
     font-family: havoc;
+    font-size: 50px;
 }
 
 i{
