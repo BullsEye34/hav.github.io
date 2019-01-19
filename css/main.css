@@ -60,10 +60,7 @@ p{
     background-repeat: no-repeat;
     background-size: 65%;
     background-attachment: fixed;
-    background-position: center;
-    background-position-y: 0em;
-    background-position-x: 20em;
-    
+    background-position: center;    
     padding: 3em 4em 4em 4em;
     
 }
